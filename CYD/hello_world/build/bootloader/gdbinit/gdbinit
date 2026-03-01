@@ -1,0 +1,2 @@
+source /home/snooze/Dev/IoTLib/CYD/hello_world/build/bootloader/gdbinit/symbols
+source /home/snooze/Dev/IoTLib/CYD/hello_world/build/bootloader/gdbinit/connect
